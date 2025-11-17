@@ -44,9 +44,9 @@ This repository contains a simple **UiPath workflow** that demonstrates:
 
 | Field | Example Input |
 |------|--------------|
-| Name | Bala Saravanan K |
-| Password | password123 |
-| Textarea | Graphic Designer and UI/UX enthusiastic |
+| Name | Gowtham V |
+| Password | password8576 |
+| Textarea | Ethical Hacker |
 
 ---
 
